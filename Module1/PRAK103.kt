@@ -1,7 +1,7 @@
 package Prak02
 
 fun main() {
-    print("Input Bilangan : ")
+    print("Input Angka: ")
     var x:Int = Integer.valueOf(readLine())
     val y = x
     var z = 5
