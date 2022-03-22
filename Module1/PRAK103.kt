@@ -1,18 +1,18 @@
 package Prak02
 
-//fun main(){
-   // var angka = 1
-   // println("Input bilangan = ")
-   // val kelipatan = Integer.valueOf(readLine())
-
-    //while (angka <= 5){
-     //   if() } }
-fun main(){
-    var x = 3;
-    var y = 7;
-    var max = 2021;
-    var result = 0;
-    //var array = [];
-
-    //for(i=0; i<max-1; i++)
+fun main() {
+    print("Input Bilangan : ")
+    var x:Int = Integer.valueOf(readLine())
+    val y = x
+    var z = 5
+    for (i in 1..z){
+        if (x % 2 == 0 || x % 3 == 0) {
+            print(x)
+            print(" ")
+            x += y
+        } else {
+            x += y
+            z += 1
+        }
+    }
 }
