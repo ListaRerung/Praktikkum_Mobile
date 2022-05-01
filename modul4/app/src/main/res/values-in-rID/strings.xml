@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hewan App</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="gantibahasa">Bahasa</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="darat1">"Badak "</string>
+    <string name="darat2">Beruang Kutub</string>
+    <string name="menu_HewanUdara">Hewan Terbang</string>
+    <string name="menu_HewanAir">Hewan Air</string>
+    <string name="menu_HewanDarat">Hewan Darat</string>
+    <string name="darat3">Gajah</string>
+    <string name="darat4">Harimau</string>
+    <string name="darat5">Jerapah</string>
+    <string name="darat6">Burung Maleo</string>
+    <string name="darat7">Burung Melak</string>
+    <string name="darat8">Rusa Moose</string>
+
+    <string name="darat9">Musang</string>
+    <string name="darat10">Singa</string>
+    <string name="udara1">Burung Bangau</string>
+
+    <string name="udara2">Burung Beo</string>
+    <string name="udara3">burung Kolibri</string>
+    <string name="udara4">Burung Kutilang</string>
+    <string name="udara5">Cendrawasih</string>
+    <string name="udara6">Elang</string>
+    <string name="udara7">Kelelawar</string>
+
+    <string name="udara8">Lalat</string>
+    <string name="udara9">Lebah</string>
+    <string name="udara10">Burung Hantu</string>
+
+    <string name="air1">Belut</string>
+    <string name="air2">Hiu</string>
+
+    <string name="air3">Ikan Pari</string>
+    <string name="air4">Kraken</string>
+
+    <string name="air5">Krustasea</string>
+    <string name="air6">Kuda Laut</string>
+
+    <string name="air7">Lumba Lumba</string>
+    <string name="air8">Paus</string>
+    <string name="air9">Salmon</string>
+    <string name="air10">Ubur Ubur</string>
+</resources>

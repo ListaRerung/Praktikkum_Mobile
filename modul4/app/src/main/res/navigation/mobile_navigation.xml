@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.modul4.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_sosial"
+        android:name="com.example.modul4.ui.jobsosial.JobsosialFragment"
+        android:label="Social Jobs"
+        tools:layout="@layout/fragment_jobsosial" />
+
+    <fragment
+        android:id="@+id/nav_sains"
+        android:name="com.example.modul4.ui.jobsains.JobsainsFragment"
+        android:label="Science Jobs"
+        tools:layout="@layout/fragment_jobsains" />
+
+    <fragment
+        android:id="@+id/nav_terbang"
+        android:name="com.example.modul4.ui.hewanudara.HewanudaraFragment"
+        android:label="@string/menu_HewanUdara"
+        tools:layout="@layout/fragment_hewanudara" />
+</navigation>

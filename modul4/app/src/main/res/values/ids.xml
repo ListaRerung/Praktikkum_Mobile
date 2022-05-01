@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bahasa" type="id" />
+    <item name="indo" type="id" />
+    <item name="english" type="id" />
+</resources>

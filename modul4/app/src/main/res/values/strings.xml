@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Hewan App</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">HewanApp</string>
+    <string name="nav_header_subtitle" translatable="false">2010817310007@mhs.ulm.ac.id</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Setting</string>
+    <string name="gantibahasa">Language</string>
+    <string name="welcome">Welcome</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="darat8">Moose</string>
+    <string name="udara6">Eagle</string>
+    <string name="air4">Kraken</string>
+    <string name="air5">Krustasea</string>
+    <string name="air9">Salmon</string>
+    <string name="darat1">Rhino</string>
+    <string name="darat2">Polar Bear</string>
+    <string name="menu_HewanUdara">Flying animal</string>
+    <string name="menu_HewanAir">water animal</string>
+    <string name="menu_HewanDarat">Land animal</string>
+    <string name="darat3">Elephant</string>
+    <string name="darat4">Tiger</string>
+    <string name="darat5">Giraffe</string>
+    <string name="darat6">Maleo bird</string>
+    <string name="darat7">Peacock</string>
+    <string name="darat9">Weasel</string>
+    <string name="darat10">Lion</string>
+    <string name="udara1">Stork</string>
+    <string name="udara2">Parrot</string>
+    <string name="udara3">Hummingbird</string>
+    <string name="udara4">finches</string>
+    <string name="udara5">Paradise</string>
+    <string name="udara7">Bat</string>
+    <string name="udara8">Fly</string>
+    <string name="udara9">Bee</string>
+    <string name="udara10">Owl</string>
+    <string name="air1">Eel</string>
+    <string name="air2">Shark</string>
+    <string name="air3">Stingray</string>
+    <string name="air6">SeaHorses</string>
+    <string name="air7">Dolphin</string>
+    <string name="air8">whale</string>
+    <string name="air10">Jellyfish</string>
+</resources>
